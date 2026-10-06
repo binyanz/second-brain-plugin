@@ -1,0 +1,9 @@
+{
+  "name": "second-brain-plugin",
+  "version": "0.1.0",
+  "description": "Personal Claude plugin for managing project context in an Obsidian-based second_brain vault.",
+  "author": {
+    "name": "Brynn"
+  },
+  "keywords": ["second-brain", "obsidian", "project-context", "markdown", "personal-workflow"]
+}
